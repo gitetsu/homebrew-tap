@@ -9,7 +9,7 @@
       "matchStrings": ["version \"(?<currentValue>.*?)\"\n"],
       "datasourceTemplate": "github-releases",
       "depNameTemplate": "Dygmalab/Bazecor",
-      "extractVersionTemplate": "^v(?<version>.*)$"
+      "extractVersionTemplate": "^bazecor-(?<version>.*)$"
     }
   ]
 }
