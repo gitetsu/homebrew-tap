@@ -1,8 +1,8 @@
 cask "bazecor" do
   version "0.3.5"
-  sha256 "6f3bdbf71d1bd65ba2b8310f3e4861c8feddceae36c47bf754288839ec6d1d86"
+  sha256 "06e56b9160bdac99fccebe7fa505c0145c8697250c3fd6fe59388968f67b4773"
 
-  url "https://github.com/Dygmalab/Bazecor/releases/download/v#{version}/Bazecor-#{version}.dmg"
+  url "https://github.com/Dygmalab/Bazecor/releases/download/bazecor-#{version}/Bazecor-#{version}.dmg"
   name "Bazecor"
   desc "Graphical configurator for Dygma Raise"
   homepage "https://github.com/Dygmalab/Bazecor"
